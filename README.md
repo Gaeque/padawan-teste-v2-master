@@ -123,15 +123,15 @@ O retorno é um objeto com algumas skills de Dragon Ball:
 - No Controller, criei os respectivos endpoints:
   - Listar todos os mestres Jedis e seus aprendizes
     ```
-    GET /relatorios/mestres-e-aprendizes
+    GET /jedis/mestres-e-aprendizes
     ```
   - Listar todos os Jedis com midichlorians acima de 9000
     ```
-    GET /relatorios/jedis-acima-9000
+    GET /jedis/acima-de-9000
     ```
   - Listar, por status, a quantidade de Jedis
     ```
-    GET /relatorios/jedis-por-status
+    GET /jedis/quantidade-por-status
     ```
 
 ---
