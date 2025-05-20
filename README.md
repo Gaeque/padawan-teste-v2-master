@@ -126,7 +126,13 @@ O retorno é um objeto com algumas skills de Dragon Ball:
     GET /relatorios/mestres-e-aprendizes
     ```
   - Listar todos os Jedis com midichlorians acima de 9000
+   ```
+    GET /relatorios/jedis-acima-9000
+    ```
   - Listar, por status, a quantidade de Jedis
+    ```
+    GET /relatorios/jedis-por-status
+    ```
 
 ---
 
