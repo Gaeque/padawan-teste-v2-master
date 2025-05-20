@@ -122,6 +122,9 @@ O retorno é um objeto com algumas skills de Dragon Ball:
   - `contarJedisPorStatus`
 - No Controller, criei os respectivos endpoints:
   - Listar todos os mestres Jedis e seus aprendizes
+    ```
+    GET /relatorios/mestres-e-aprendizes
+    ```
   - Listar todos os Jedis com midichlorians acima de 9000
   - Listar, por status, a quantidade de Jedis
 
