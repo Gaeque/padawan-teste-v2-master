@@ -41,6 +41,12 @@ Foi necessário adicionar as seguintes dependências no `pom.xml`:
     <artifactId>h2</artifactId>
     <scope>runtime</scope>
 </dependency>
+
+<dependency>
+    <groupId>org.postgresql</groupId>
+    <artifactId>postgresql</artifactId>
+    <scope>runtime</scope>
+ </dependency>
 ```
 
 Após isso, rodei a aplicação normalmente.
