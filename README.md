@@ -4,7 +4,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://gitlab.com/glauco-pacto/padawan-teste-v2.git
+git clone https://github.com/Gaeque/padawan-teste-v2-master
 cd padawan-teste-v2
 
 # Rode o Docker para subir a base de dados
